@@ -44,3 +44,15 @@ Before training the data, we will divide it into a training and testing dataset.
 ## Build Application - To be done
 
 We will build a user interface (UI) to allow users to input videos and generate audio captions.
+
+## References
+
+[1] Agarwal, L., Verma, B. From methods to datasets: A survey on Image-Caption Generators. Multimed Tools Appl (2023)
+
+[2] N. Indumathi, R. J. Divyalakshmi, J. Stalin, V. Ramachandran and P. Rajaram, "Apply Deep Learning-based CNN and LSTM for Visual Image Caption Generator," 2023 3rd International Conference on Advance Computing and Innovative Technologies in Engineering (ICACITE), Greater Noida, India, 2023, pp. 1586-1591, doi: 10.1109/ICACITE57410.2023.10183097.
+
+[3] A. Singh and D. Vij, "CNN-LSTM based Social Media Post Caption Generator," 2022 2nd International Conference on Innovative Practices in Technology and Management (ICIPTM), Gautam Buddha Nagar, India, 2022, pp. 205-209, doi: 10.1109/ICIPTM54933.2022.9754189.
+
+[4] https://arxiv.org/abs/1505.00487?source=post_page-----511984a2cfff--------------------------------
+
+[5]https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8
