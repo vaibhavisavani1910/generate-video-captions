@@ -38,10 +38,10 @@ We have performed feature extraction on an HPC cluster for each of the 1,980 ima
 ## Model training - To be done
 
 After extracting the features, we will use an Encoder-Decoder model to generate captions. A stacked LSTM first encodes the frames one by one, taking as input the output of a Convolutional Neural Network (CNN) applied to each input frame's intensity values. Once all frames are read, the model generates a sentence word by word. The encoding and decoding of the frame and word representations are learned jointly from a parallel corpus. The videos are a sequence of frames. LSTM tends to work better with sequences; therefore, we will use LSTM for the encoder. We will feed the result of the encoder to the decoder, which will generate the text as output. We will use LSTM for the decoder as well.
-## Test Model - To be done
+## Test Model 
 
 Before training the data, we will divide it into a training and testing dataset. The test dataset will be used to assess the accuracy of our model.
-## Build Application - To be done
+## Build Application 
 
 We will build a user interface (UI) to allow users to input videos and generate audio captions.
 
